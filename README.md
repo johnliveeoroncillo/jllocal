@@ -1,6 +1,14 @@
 # jllocal
 
+#SERVER NODE
+#CURRENT PORT is 8081
+```
+nodemon start
+```
+
+#VUE JS
 ## Project setup
+#CURRENT PORT IS 8080
 ```
 npm install
 ```
@@ -22,3 +30,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
